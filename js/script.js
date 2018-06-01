@@ -1,1 +1,1 @@
-alert('test');
+alert('test for day one');
